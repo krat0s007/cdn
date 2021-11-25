@@ -1,0 +1,19 @@
+{
+  "name": "ysfcdn/de",
+  "version": "3.0",
+  "description": "Cdn Dependencies",
+  "main": "README.md",
+  "keywords": [
+    "kratos, ysf, Cdn"
+  ],
+  "author": "Kratos",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krat0s007/cdn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krat0s007/cdn/issues"
+  },
+  "homepage": "https://github.com/krat0s007/cdn/-/blob/master/README.md"
+}
